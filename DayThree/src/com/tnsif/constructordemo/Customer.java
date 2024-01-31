@@ -1,6 +1,7 @@
 // to demonstrate constructor
 package com.tnsif.constructordemo;
 
+
 public class Customer {
 	// instance variable
 	private String name;
