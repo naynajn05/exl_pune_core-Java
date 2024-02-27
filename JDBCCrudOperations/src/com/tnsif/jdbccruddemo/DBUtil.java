@@ -8,10 +8,6 @@ import java.sql.SQLException;
 /*Import java.sql package
 Load and register the driver-
 Establish a connection to the database server
-Create a statement
-Execute the statement
-Retrieve the result
-Close the statement and connection
 */
 public class DBUtil {
 	
